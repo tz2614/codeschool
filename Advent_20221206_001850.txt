@@ -1,0 +1,10 @@
+The top of each stack are:
+stack:1, crate: R
+stack:2, crate: W
+stack:3, crate: L
+stack:4, crate: W
+stack:5, crate: G
+stack:6, crate: J
+stack:7, crate: G
+stack:8, crate: F
+stack:9, crate: D

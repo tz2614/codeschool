@@ -1,0 +1,1 @@
+The number of characters that need to be processed before processing is : 1109
